@@ -1,6 +1,6 @@
 # exampleFFT
 
-## Enviroment
+## Environment
 - Processing 3.0.1
 - Minim 2.2.2
 
